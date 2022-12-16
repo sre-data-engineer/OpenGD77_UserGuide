@@ -1,3 +1,7 @@
+https://youtu.be/99Z28VOrUL0
+
+https://youtu.be/XT1vWHHCd40
+
 # OpenGD77 User Guides
 
 This repository contains the English and Chinese versions of the OpenGD77 / OpenGD77S / OpenDM1801 / OpenRD5R User Guide
